@@ -1,2 +1,2 @@
-# 100-days-genai
-A 100-day journey exploring Generative AI projects.
+# 30-days-ml-projects
+A 30-day journey exploring Machine Learning projects.
