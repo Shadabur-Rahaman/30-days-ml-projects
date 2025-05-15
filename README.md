@@ -65,7 +65,7 @@ Star ⭐ this repository
 
 Share it with fellow learners
 
-Connect with me on LinkedIn
+Connect with me on www.linkedin.com/in/shadabur-rahaman-1b5703249
 
 📜 License
 This repo is open-sourced under the MIT License. Use it, fork it, and build on it freely 🚀
