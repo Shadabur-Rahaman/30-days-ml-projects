@@ -66,12 +66,4 @@ linear-regression-ridge/
 Author
 Shadabur Rahaman — www.linkedin.com/in/shadabur-rahaman-1b5703249
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-yaml
-Copy
-Edit
-
----
 
