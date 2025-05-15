@@ -54,11 +54,15 @@ Copy
 Edit
 linear-regression-ridge/
 │
+
 ├── linear_regression_ridge.py    # Main implementation script
+
 ├── README.md                     # This file
+
 └── images/                       # Folder containing plot images (optional)
     ├── fit_plot.png
     └── loss_curve.png
+    
 Author
 Shadabur Rahaman — www.linkedin.com/in/shadabur-rahaman-1b5703249
 
