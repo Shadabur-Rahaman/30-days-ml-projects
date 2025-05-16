@@ -1,0 +1,17 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Virtual envs
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Processed data & reports
+data/processed/
+reports/*.html
+
+# Images
+images/*.png
