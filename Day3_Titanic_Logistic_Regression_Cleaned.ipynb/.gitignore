@@ -1,0 +1,16 @@
+---
+
+### .gitignore
+```gitignore
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (do not commit large datasets)
+data/*.csv
+
+env/                  # Virtual environment
+*.egg-info/           # Packaging metadata
