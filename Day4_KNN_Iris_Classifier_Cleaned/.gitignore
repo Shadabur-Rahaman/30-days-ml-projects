@@ -1,0 +1,23 @@
+
+---
+
+### 📄 `.gitignore`
+```gitignore
+# Ignore virtual environment folders
+.venv/
+venv/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore datasets or outputs
+data/
+*.csv
+*.tsv
+*.xlsx
