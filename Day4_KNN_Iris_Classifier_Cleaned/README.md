@@ -29,22 +29,14 @@ git clone https://github.com/yourusername/Day4-KNN-Iris-Classifier.git
 cd Day4-KNN-Iris-Classifier
 (Optional) Create a virtual environment:
 
-bash
-Copy
-Edit
+
 python -m venv venv
 source venv/bin/activate  # Windows: venv\\Scripts\\activate
 Install required packages:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Launch the notebook:
 
-bash
-Copy
-Edit
 jupyter notebook notebooks/Day4_KNN_Iris_Classifier_Cleaned.ipynb
 🛠 Dependencies
 Make sure you have the following Python packages installed:
@@ -63,9 +55,7 @@ jupyter
 
 You can install them using:
 
-bash
-Copy
-Edit
+
 pip install pandas numpy seaborn matplotlib scikit-learn jupyter
 📊 Output
 The notebook includes:
