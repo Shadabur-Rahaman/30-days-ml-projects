@@ -1,0 +1,19 @@
+
+---
+
+### ✅ `.gitignore`
+```gitignore
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+.venv/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
