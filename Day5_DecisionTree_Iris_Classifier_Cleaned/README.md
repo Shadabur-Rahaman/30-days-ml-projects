@@ -2,7 +2,7 @@
 
 This project implements a **Decision Tree Classifier** on the famous Iris dataset, demonstrating a complete machine learning pipeline: data preprocessing, model training, evaluation, and visualization.
 
-![Pairplot](images/pairplot.png)  
+![Pairplot](images/pair_plot_of_sepal_length.png)  
 *Pairwise feature relationships for different species*
 
 ## 🔍 Project Overview
