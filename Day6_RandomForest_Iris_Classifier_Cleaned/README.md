@@ -42,7 +42,7 @@ Day6_RandomForest_Iris_Classifier_Cleaned/
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/30-days-ml-projects.git
+git clone https://github.com/Shadabur-Rahaman/30-days-ml-projects.git
 cd Day6_RandomForest_Iris_Classifier_Cleaned
 Install requirements:
 
