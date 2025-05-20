@@ -1,9 +1,9 @@
 # 🌲 Random Forest Iris Classifier (Cleaned)
 
 This project implements a Random Forest Classifier on the Iris dataset with clean modular code. It includes training, evaluation, and feature importance visualization.
-
-![Confusion Matrix](images/confusion_matrix.png)
 ---
+![Confusion Matrix](images/confusion_matrix.png)
+
 ![Feature Importance](images/feature_importance.png)
 
 ---
