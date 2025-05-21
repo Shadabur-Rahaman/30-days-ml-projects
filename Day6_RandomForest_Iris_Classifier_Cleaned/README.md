@@ -17,21 +17,6 @@ This project implements a Random Forest Classifier on the Iris dataset with clea
 
 ---
 
-## 📁 Structure
-
-Day6_RandomForest_Iris_Classifier_Cleaned/
-├── data/
-│ └── iris.csv
-├── notebooks/
-│ └── Day6_RandomForest_Iris_Classifier_Cleaned.ipynb
-├── src/
-│ └── rf_utils.py
-├── images/
-│ ├── confusion_matrix.png
-│ └── feature_importance.png
-├── requirements.txt
-├── .gitignore
-└── README.md
 
 
 
@@ -48,7 +33,24 @@ Install requirements:
 
 
 pip install -r requirements.txt
-Run the notebook inside notebooks/.
+Run the notebook inside notebooks:
+
+jupyter notebook Day6_RandomForest_Iris_Classifier_Cleaned.ipynb
+Directory 📁 Structure
+
+Day6_RandomForest_Iris_Classifier_Cleaned/
+├── data/
+│ └── iris.csv
+├── notebooks/
+│ └── Day6_RandomForest_Iris_Classifier_Cleaned.ipynb
+├── src/
+│ └── rf_utils.py
+├── images/
+│ ├── confusion_matrix.png
+│ └── feature_importance.png
+├── requirements.txt
+├── .gitignore
+└── README.md
 
 🎯 Learning Outcomes
 Understand how Random Forest works
