@@ -14,7 +14,7 @@ This project performs sentiment analysis on tweets using two techniques:
 
 ## 🔧 How to Run
 1. Install dependencies:
-   ```bash
+```bash
    pip install -r requirements.txt
 Run the notebook:
 jupyter notebook notebooks/Day9_Tweet_Sentiment_Analysis_Cleaned.ipynb
