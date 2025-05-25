@@ -1,5 +1,4 @@
+```txt
 tensorflow
-numpy
 matplotlib
-seaborn
-scikit-learn
+numpy
