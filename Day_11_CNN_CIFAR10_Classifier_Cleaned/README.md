@@ -14,9 +14,7 @@ This project implements a **Convolutional Neural Network (CNN)** using Keras to 
 
 ## 📦 Usage
 ## 🔧 How to Run
-1. Install dependencies:
 ```bash
-\
 📁 Folder Structure
 Day_11_CNN_CIFAR10_Classifier_Cleaned/
 │
