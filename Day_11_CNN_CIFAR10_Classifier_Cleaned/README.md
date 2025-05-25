@@ -51,3 +51,7 @@ Understand CNN building blocks (Conv, Pool, Flatten, Dense)
 Use TensorFlow/Keras to build deep learning models
 
 Work with image data and visualize performance
+
+👨‍💻 Author
+Shadabur Rahaman
+LinkedIn www.linkedin.com/in/shadabur-rahaman-1b5703249
