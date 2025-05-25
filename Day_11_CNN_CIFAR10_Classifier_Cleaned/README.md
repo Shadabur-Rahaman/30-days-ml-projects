@@ -2,7 +2,7 @@
 
 This project implements a **Convolutional Neural Network (CNN)** using Keras to classify images from the **CIFAR-10** dataset. It is part of my #30DaysMLProjects initiative.
 
-![CNN CIFAR-10](images/cifar10_cnn_arch.png)  
+![CNN CIFAR-10](images/cifar10_predictions_grid.png)  
 *A simple CNN architecture built with Keras for image classification*
 
 ## 🚀 Features
