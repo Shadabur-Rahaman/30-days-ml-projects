@@ -23,7 +23,7 @@ This project uses a simple neural network built with Keras to classify handwritt
 ## 🚀 How to Run
 
 ```bash
-Day10_Keras_MNIST_NN_Cleaned/
+Day_10_Keras_MNIST_NN_Cleaned/
 ├── notebooks/
 │ └── Day10_Keras_MNIST_NN_Cleaned.ipynb
 ├── images/
@@ -38,7 +38,7 @@ Day10_Keras_MNIST_NN_Cleaned/
 pip install -r requirements.txt
 
 Open and run all cells in:
-notebooks/Day10_Keras_MNIST_NN_Cleaned.ipynb
+notebooks/Day_10_Keras_MNIST_NN_Cleaned.ipynb
 
 📚 Learning Outcomes
 1. Understand the basics of neural networks
