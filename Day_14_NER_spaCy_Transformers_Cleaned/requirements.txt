@@ -1,0 +1,6 @@
+spacy>=3.0.0
+transformers
+scikit-learn
+pandas
+matplotlib
+seaborn
