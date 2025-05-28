@@ -25,9 +25,7 @@ This project focuses on building a robust NER (Named Entity Recognition) pipelin
 ```bash
 ## 📁 File Structure
 
-Day14_NER_spaCy_Transformers_Cleaned/
-├── data/
-│ └── ner_dataset.json
+Day_14_NER_spaCy_Transformers_Cleaned/
 ├── notebooks/
 │ └── Day14_NER_spaCy_Transformers_Cleaned.ipynb
 ├── images/
@@ -41,9 +39,6 @@ Day14_NER_spaCy_Transformers_Cleaned/
 ├── .gitignore
 └── README.md
 
-yaml
-Copy
-Edit
 
 ---
 
