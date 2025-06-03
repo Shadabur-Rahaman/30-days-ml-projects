@@ -1,1 +1,12 @@
-
+User    : Hello!
+Chatbot : Hi there!
+--------------------------------------------------
+User    : How are you?
+Chatbot : I'm just a bot, but I'm doing great!
+--------------------------------------------------
+User    : What is machine learning?
+Chatbot : Machine learning is a field of AI that enables computers to learn from data.
+--------------------------------------------------
+User    : Tell me a joke.
+Chatbot : Why did the computer get cold? Because it forgot to close its Windows!
+--------------------------------------------------
