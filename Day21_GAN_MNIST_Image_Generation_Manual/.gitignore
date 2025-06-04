@@ -1,6 +1,6 @@
 __pycache__/
-.ipynb_checkpoints/
-*.pyc
-*.pkl
-.env
+*.pth
+outputs/
+*.png
 .DS_Store
+.ipynb_checkpoints/
