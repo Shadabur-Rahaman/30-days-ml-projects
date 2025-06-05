@@ -1,1 +1,1 @@
-
+{"feature_names": ["age", "sex", "cp", "trestbps", "chol", "fbs", "restecg", "thalach", "exang", "oldpeak", "slope", "ca", "thal"], "class_names": ["No Heart Disease", "Heart Disease"], "mode": "classification", "categorical_features": [], "discretize_continuous": true}
