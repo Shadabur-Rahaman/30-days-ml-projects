@@ -10,6 +10,32 @@ This project demonstrates the use of **Explainable AI (XAI)** techniques to unde
 
 ---
 
+🧠 Learnings
+Understand how SHAP assigns responsibility to features.
+
+Use LIME to visualize feature perturbation and impact.
+
+Generate Grad-CAM overlays for CNN image classification.
+
+Build explainable pipelines for real-world tabular or vision-based ML tasks.
+
+---
+
+🚀 Future Scope
+Use Anchors or Counterfactual Explanations.
+
+Add Integrated Gradients for CNNs.
+
+Extend to real-time XAI in production dashboards.
+
+---
+
+📅 Part of 30 Days of ML Projects
+This is Day 22 of my #30DaysMLProjects challenge.
+---
+Stay tuned for Day 23: Anomaly Detection – Detect anomalies in network or transaction data 🔥
+---
+
 ## 📁 Project Structure
 
 ```bash
@@ -65,7 +91,6 @@ Day22_ExplainableAI_CNN_and_Tabular/
 
 ## 🧪 How to Run
 
-```bash
 # Clone repo and navigate
 git clone https://github.com/your-username/Day22_Explainable_AI.git
 cd Day22_Explainable_AI
@@ -75,23 +100,5 @@ pip install -r requirements.txt
 
 # Run notebook
 jupyter notebook notebooks/Day22_Explainable_AI.ipynb
-🧠 Learnings
-Understand how SHAP assigns responsibility to features.
 
-Use LIME to visualize feature perturbation and impact.
 
-Generate Grad-CAM overlays for CNN image classification.
-
-Build explainable pipelines for real-world tabular or vision-based ML tasks.
-
-🚀 Future Scope
-Use Anchors or Counterfactual Explanations.
-
-Add Integrated Gradients for CNNs.
-
-Extend to real-time XAI in production dashboards.
-
-📅 Part of 30 Days of ML Projects
-This is Day 22 of my #30DaysMLProjects challenge.
-
-Stay tuned for Day 23: Anomaly Detection – Detect anomalies in network or transaction data 🔥
