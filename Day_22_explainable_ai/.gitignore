@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+*.joblib
+*.h5
+*.npy
+*.json
+*.png
+.DS_Store
