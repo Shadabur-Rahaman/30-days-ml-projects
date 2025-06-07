@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+*.h5
+*.json
+*.npy
+.DS_Store
+.env
