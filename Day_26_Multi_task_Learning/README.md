@@ -17,7 +17,16 @@ This project demonstrates how to train a **Multi-Task Neural Network** using PyT
 - ✅ Combined weighted loss (BCE + MSE)  
 
 ---
+### 📚 Learning Outcomes
+By completing this project, you will:
 
+✅ Understand multi-task learning fundamentals
+✅ Build shared + task-specific heads in PyTorch
+✅ Use joint loss functions (Binary Cross-Entropy + MSE)
+✅ Visualize performance per task
+✅ Train efficient models that handle multiple objectives
+
+---
 ## 🗂️ Directory Structure
 
 ```bash
@@ -38,9 +47,7 @@ Day26_Multi_Task_Learning_Cleaned/
 ├── .gitignore                           # Common file ignores
 └── README.md                            # Project documentation
 ⚙️ Model Architecture
-scss
-Copy
-Edit
+
 Input Features
      │
      ▼
@@ -57,29 +64,15 @@ Classification Head   Regression Head
 
 🧪 How to Run
 🔧 Install Dependencies
-bash
-Copy
-Edit
 pip install -r requirements.txt
+
 📓 Run Notebook
-bash
-Copy
-Edit
 jupyter notebook notebooks/Day_26_Multi_task_Learning.ipynb
+
 🖥️ Run Python Script (Optional)
-bash
-Copy
-Edit
+
 python src/train.py
-📚 Learning Outcomes
-By completing this project, you will:
 
-✅ Understand multi-task learning fundamentals
-✅ Build shared + task-specific heads in PyTorch
-✅ Use joint loss functions (Binary Cross-Entropy + MSE)
-✅ Visualize performance per task
-✅ Train efficient models that handle multiple objectives
 
-📌 Stay Tuned
-🚀 This is Day 26 of my #30DaysMLProjects journey.
-📅 Day 27: ✨ Vision Transformers (ViT) for Image Classification is coming up next!
+
+
