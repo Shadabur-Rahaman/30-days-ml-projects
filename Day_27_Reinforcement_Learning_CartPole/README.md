@@ -21,7 +21,6 @@ Day27_Reinforcement_Learning_CartPole/
 │
 ├── images/
 │ ├── training_rewards.png # Plot of episode rewards over time
-│ └── cartpole_agent.gif # Optional animated visualization
 │
 ├── videos/
 │ ├── cartpole_agent.mp4 # Trained agent's gameplay video
@@ -49,9 +48,6 @@ Day27_Reinforcement_Learning_CartPole/
 ├── .gitignore # Ignore saved weights, logs, etc.
 └── README.md # This file
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -79,19 +75,13 @@ Edit
 ```bash
 pip install -r requirements.txt
 2. Run the Notebook
-bash
-Copy
-Edit
+
 jupyter notebook notebooks/Day_27_Reinforcement_Learning_CartPole.ipynb
 3. (Optional) Run the Python Script
-bash
-Copy
-Edit
+
 python src/train.py
 🧠 Model Architecture: Deep Q-Network (DQN)
-scss
-Copy
-Edit
+
 Input (State Vector)
       ⬇️
 Fully Connected Layer (128 units, ReLU)
@@ -112,3 +102,4 @@ Model Saving: Periodic weight checkpoints
 
 📌 Stay Tuned
 🚀 This is Day 27 of my #30DaysMLProjects journey.
+📅 Day 28: "Deploy ML Model as API with FastAPI - Create API for any trained model"
