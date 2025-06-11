@@ -142,4 +142,4 @@ This is **Day 28** of my **#30DaysMLProjects** challenge.
 
 ---
 
-Let me know if you want the **GitHub repo structure** with `README.md`, `.gitignore`, and code pre-filled — I can generate that next!
+
