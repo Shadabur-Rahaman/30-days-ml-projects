@@ -5,9 +5,7 @@ This project demonstrates how to train, deploy, and test a machine learning mode
 We build a basic machine learning pipeline for classifying data, train a model using scikit-learn, and deploy it via a RESTful API using FastAPI. Input validation is handled with pydantic. The API can serve real-time predictions and is testable using requests.
 
 📁 Directory Structure
-graphql
-Copy
-Edit
+```bash
 Day28_Deploy_ML_FastAPI/
 ├── model/
 │   └── model.pkl                         # Trained classifier model (saved with joblib)
