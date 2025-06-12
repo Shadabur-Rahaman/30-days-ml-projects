@@ -12,11 +12,43 @@ This project demonstrates how to build a real-time image classification web appl
 ---
 
 ## 🗂️ Directory Structure
-
-Refer to the structure provided above.
-
----
-
+```bash
+Day29_ML_WebApp_Image_Classification/
+├── notebooks/
+│   └── Day_29_ml_webapp_image_classification.ipynb   # Model training and web integration notebook
+│
+├── images/
+│   ├── webapp_ui.png                  # Screenshot of web UI
+│   └── prediction_result.png          # Prediction result image
+│   ├── original_20250612_172726.jpg
+│   ├── original_20250612_172810.jpg
+│   ├── original_20250612_172945.jpg
+│   └── original_20250612_173550.jpg
+│
+├── predictionss/
+│   ├──predictions_20250612_172726.csv                     
+│   ├── predictions_20250612_172810.csv                     
+│   ├── predictions_20250612_172945.csv                                         
+│   └── predictions_20250612_173550.csv                       
+│
+├── src/
+│   ├── main.py                        # Flask app entrypoint
+│   ├── predict.py                     # Image preprocessing and model inference
+│   ├── train.py                       # Model training script
+│   ├── model.py                       # CNN architecture definition
+│   └── utils.py                       # Helper functions
+│
+├── templates/
+│   ├── index.html                     # Home page (upload form)
+│   └── result.html                    # Result page after prediction
+│
+├── static/
+│   └── style.css                      # Custom styling for web UI
+│
+├── requirements.txt                  # Python dependencies
+├── .gitignore                        # Ignore model files, pycache, temp files
+└── README.md                         # Project documentation
+```
 ## 🚀 How to Run
 
 ### 1. Install Dependencies
