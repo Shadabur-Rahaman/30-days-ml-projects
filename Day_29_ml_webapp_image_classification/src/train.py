@@ -34,10 +34,3 @@ def train_model():
 
 if __name__ == '__main__':
     train_model()
-
-
-# src/model.py
-import torch.nn as nn
-
-class CNNModel(nn.Module):
-    def __init__(self
