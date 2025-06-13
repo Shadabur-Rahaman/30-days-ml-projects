@@ -111,10 +111,10 @@ Welcome to the final project of my 30 Days of ML Projects challenge! This projec
    ```bash
    pip install -r requirements.txt
 Run Streamlit app:
-
-bash
-Copy code
+  ```bash
 streamlit run app.py
+```
+
 🧾 Key Features
 Interactive UI to upload data
 
