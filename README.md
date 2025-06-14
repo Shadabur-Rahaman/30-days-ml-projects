@@ -33,40 +33,38 @@ Each project includes:
 
 ---
 
-## 📁 Projects Overview
-
 | Day | Project Title |
 |-----|----------------|
-| 1   | Linear Regression (from scratch + sklearn) |
-| 2   | Advanced EDA & Feature Engineering |
-| 3   | Titanic Survival Prediction (Logistic Regression) |
-| 4   | KNN Classifier (Iris dataset) |
-| 5   | Decision Tree Classifier |
-| 6   | Random Forest Classifier |
-| 7   | Hyperparameter Tuning (GridSearchCV) |
-| 8   | Naive Bayes for Text Classification |
-| 9   | Sentiment Analysis on Tweets |
-| 10  | Keras MNIST Neural Network |
-| 11  | CNN on CIFAR-10 |
-| 12  | Transfer Learning - ResNet50 |
-| 13  | GPT2 Fine-Tuning for Text Generation |
-| 14  | Named Entity Recognition (spaCy + Transformers) |
-| 15  | YOLOv5 Object Detection |
-| 16  | PCA for Dimensionality Reduction |
-| 17  | K-Means Customer Segmentation |
-| 18  | ARIMA Time Series Forecasting |
-| 19  | Movie Recommender System |
-| 20  | Chatbot with Seq2Seq Model |
-| 21  | GAN for MNIST Image Generation |
-| 22  | Explainable AI (SHAP & LIME) |
-| 23  | Anomaly Detection |
-| 24  | Autoencoder Denoising |
-| 25  | BERT for Text Classification |
-| 26  | Multi-task Learning (Multi-output) |
-| 27  | Reinforcement Learning with CartPole |
-| 28  | Deploy ML API with FastAPI |
-| 29  | ML Web App for Image Classification |
-| 30  | End-to-End ML Pipeline Project |
+| 1   | [Linear Regression (from scratch + sklearn)](./Day01_Linear_Regression) |
+| 2   | [Advanced EDA & Feature Engineering](./Day02_Advanced_EDA) |
+| 3   | [Titanic Survival Prediction (Logistic Regression)](./Day03_Titanic_Logistic) |
+| 4   | [KNN Classifier (Iris dataset)](./Day04_KNN_Iris) |
+| 5   | [Decision Tree Classifier](./Day05_Decision_Tree) |
+| 6   | [Random Forest Classifier](./Day06_Random_Forest) |
+| 7   | [Hyperparameter Tuning (GridSearchCV)](./Day07_Hyperparameter_Tuning) |
+| 8   | [Naive Bayes for Text Classification](./Day08_Naive_Bayes) |
+| 9   | [Sentiment Analysis on Tweets](./Day09_Tweet_Sentiment) |
+| 10  | [Keras MNIST Neural Network](./Day10_Keras_MNIST) |
+| 11  | [CNN on CIFAR-10](./Day11_CNN_CIFAR10) |
+| 12  | [Transfer Learning - ResNet50](./Day12_TransferLearning_ResNet) |
+| 13  | [GPT2 Fine-Tuning for Text Generation](./Day13_GPT2_TextGen) |
+| 14  | [Named Entity Recognition (spaCy + Transformers)](./Day14_NER_Transformers) |
+| 15  | [YOLOv5 Object Detection](./Day15_YOLOv5_Detection) |
+| 16  | [PCA for Dimensionality Reduction](./Day16_PCA) |
+| 17  | [K-Means Customer Segmentation](./Day17_KMeans_Segmentation) |
+| 18  | [ARIMA Time Series Forecasting](./Day18_ARIMA_Timeseries) |
+| 19  | [Movie Recommender System](./Day19_Recommender) |
+| 20  | [Chatbot with Seq2Seq Model](./Day20_Seq2Seq_Chatbot) |
+| 21  | [GAN for MNIST Image Generation](./Day21_GAN_MNIST) |
+| 22  | [Explainable AI (SHAP & LIME)](./Day22_Explainable_AI) |
+| 23  | [Anomaly Detection](./Day23_Anomaly_Detection) |
+| 24  | [Autoencoder Denoising](./Day24_Autoencoder) |
+| 25  | [BERT for Text Classification](./Day25_BERT_Text_Classification) |
+| 26  | [Multi-task Learning (Multi-output)](./Day26_Multitask_Learning) |
+| 27  | [Reinforcement Learning with CartPole](./Day27_RL_CartPole) |
+| 28  | [Deploy ML API with FastAPI](./Day28_Deploy_FastAPI) |
+| 29  | [ML Web App for Image Classification](./Day29_Web_App) |
+| 30  | [End-to-End ML Pipeline Project](./Day30_End2End_Pipeline) |
 
 > 📌 All projects are available in separate folders with notebooks, utils, and results.
 
