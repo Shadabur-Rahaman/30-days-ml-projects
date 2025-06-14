@@ -37,11 +37,11 @@ Each project includes:
 |-----|----------------|
 | 1   | [Linear Regression (from scratch + sklearn)](./Day1_Linear_Regression) |
 | 2   | [Advanced EDA & Feature Engineering](./Day2_Advanced_EDA_Feature_Engineering) |
-| 3   | [Titanic Survival Prediction (Logistic Regression)]([./Day3_Titanic_Logistic]) |
-| 4   | [KNN Classifier (Iris dataset)]([./Day4_KNN_Iris]) |
-| 5   | [Decision Tree Classifier]([./Day5_Decision_Tree]) |
-| 6   | [Random Forest Classifier](./Day6_Random_Forest) |
-| 7   | [Hyperparameter Tuning (GridSearchCV)](./Day7_Hyperparameter_Tuning) |
+| 3   | [Titanic Survival Prediction (Logistic Regression)](./Day3_Titanic_Logistic_Regression_Cleaned.ipynb) |
+| 4   | [KNN Classifier (Iris dataset)](./Day4_KNN_Iris_Classifier_Cleaned) |
+| 5   | [Decision Tree Classifier](./Day5_DecisionTree_Iris_Classifier_Cleaned) |
+| 6   | [Random Forest Classifier](./Day6_RandomForest_Iris_Classifier_Cleaned) |
+| 7   | [Hyperparameter Tuning (GridSearchCV)](./Day7_GridSearchCV_Hyperparameter_Tuning_Cleaned) |
 | 8   | [Naive Bayes for Text Classification](./Day8_Naive_Bayes) |
 | 9   | [Sentiment Analysis on Tweets](./Day9_Tweet_Sentiment) |
 | 10  | [Keras MNIST Neural Network](./Day_10_Keras_MNIST) |
