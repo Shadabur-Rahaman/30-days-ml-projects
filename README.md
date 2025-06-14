@@ -42,29 +42,29 @@ Each project includes:
 | 5   | [Decision Tree Classifier](./Day5_DecisionTree_Iris_Classifier_Cleaned) |
 | 6   | [Random Forest Classifier](./Day6_RandomForest_Iris_Classifier_Cleaned) |
 | 7   | [Hyperparameter Tuning (GridSearchCV)](./Day7_GridSearchCV_Hyperparameter_Tuning_Cleaned) |
-| 8   | [Naive Bayes for Text Classification](./Day8_Naive_Bayes) |
-| 9   | [Sentiment Analysis on Tweets](./Day9_Tweet_Sentiment) |
-| 10  | [Keras MNIST Neural Network](./Day_10_Keras_MNIST) |
-| 11  | [CNN on CIFAR-10](./Day_11_CNN_CIFAR10) |
-| 12  | [Transfer Learning - ResNet50](./Day12_TransferLearning_ResNet) |
-| 13  | [GPT2 Fine-Tuning for Text Generation](./Day13_GPT2_TextGen) |
-| 14  | [Named Entity Recognition (spaCy + Transformers)](./Day14_NER_Transformers) |
-| 15  | [YOLOv5 Object Detection](./Day15_YOLOv5_Detection) |
-| 16  | [PCA for Dimensionality Reduction](./Day16_PCA) |
-| 17  | [K-Means Customer Segmentation](./Day17_KMeans_Segmentation) |
-| 18  | [ARIMA Time Series Forecasting](./Day18_ARIMA_Timeseries) |
-| 19  | [Movie Recommender System](./Day19_Recommender) |
-| 20  | [Chatbot with Seq2Seq Model](./Day20_Seq2Seq_Chatbot) |
-| 21  | [GAN for MNIST Image Generation](./Day21_GAN_MNIST) |
-| 22  | [Explainable AI (SHAP & LIME)](./Day22_Explainable_AI) |
-| 23  | [Anomaly Detection](./Day23_Anomaly_Detection) |
-| 24  | [Autoencoder Denoising](./Day24_Autoencoder) |
-| 25  | [BERT for Text Classification](./Day25_BERT_Text_Classification) |
-| 26  | [Multi-task Learning (Multi-output)](./Day26_Multitask_Learning) |
-| 27  | [Reinforcement Learning with CartPole](./Day27_RL_CartPole) |
-| 28  | [Deploy ML API with FastAPI](./Day28_Deploy_FastAPI) |
-| 29  | [ML Web App for Image Classification](./Day29_Web_App) |
-| 30  | [End-to-End ML Pipeline Project](./Day30_End2End_Pipeline) |
+| 8   | [Naive Bayes for Text Classification](./Day8_NaiveBayes_Text_Classifier_Cleaned) |
+| 9   | [Sentiment Analysis on Tweets](./Day9_Tweet_Sentiment_Analysis_Cleaned) |
+| 10  | [Keras MNIST Neural Network](./Day_10_Keras_MNIST_NN_Cleaned) |
+| 11  | [CNN on CIFAR-10](./Day_11_CNN_CIFAR10_Classifier_Cleaned) |
+| 12  | [Transfer Learning - ResNet50](./Day_12_Transfer_Learning_ResNet50_Cleaned) |
+| 13  | [GPT2 Fine-Tuning for Text Generation](./Day_13_FineTune_GPT2_TextGeneration) |
+| 14  | [Named Entity Recognition (spaCy + Transformers)](./Day_14_NER_spaCy_Transformers_Cleaned) |
+| 15  | [YOLOv5 Object Detection](./Day_15_Object_Detection_YOLO_Cleaned) |
+| 16  | [PCA for Dimensionality Reduction](./Day_16_PCA_Dimensionality_Reduction_Cleaned) |
+| 17  | [K-Means Customer Segmentation](./Day_17_KMeans_Customer_Segmentation_Cleaned) |
+| 18  | [ARIMA Time Series Forecasting](./Day_18_ARIMA_TimeSeries_Forecasting_Cleaned) |
+| 19  | [Movie Recommender System](./Day_19_Recommender_CollaborativeFiltering_Cleaned) |
+| 20  | [Chatbot with Seq2Seq Model](./Day_20_Chatbot_Seq2Seq_Model) |
+| 21  | [GAN for MNIST Image Generation](./Day_21_GAN_MNIST_Image_Generation_Manual) |
+| 22  | [Explainable AI (SHAP & LIME)](./Day_22_explainable_ai) |
+| 23  | [Anomaly Detection](./Day_23_Anomaly_Detection_Cleaned) |
+| 24  | [Autoencoder Denoising](./Day_24_autoencoder_denoising) |
+| 25  | [BERT for Text Classification](./Day_25_Bert_text_classification)|
+| 26  | [Multi-task Learning (Multi-output)](./Day_26_Multi_task_Learning) |
+| 27  | [Reinforcement Learning with CartPole](./Day_27_Reinforcement_Learning_CartPole) |
+| 28  | [Deploy ML API with FastAPI](./Day_28_deploy_ml_fastapi) |
+| 29  | [ML Web App for Image Classification](./Day_29_ml_webapp_image_classification) |
+| 30  | [End-to-End ML Pipeline Project](./Day_30_End2End-ML-Pipeline) |
 
 > 📌 All projects are available in separate folders with notebooks, utils, and results.
 
