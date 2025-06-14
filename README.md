@@ -78,10 +78,13 @@ Each project includes:
 # Clone the repo
 git clone https://github.com/shadabur-rahaman/30-days-ml-projects.git
 cd 30-days-ml-projects
+```
 
 # Navigate to any project
+```
 cd Day01_Linear_Regression
 python linear_regression.py
+```
 🔗 Follow the Journey
 📍 LinkedIn: linkedin.com/in/shadabur-rahaman-1b5703249
 📝 Blog/Medium: Coming soon
