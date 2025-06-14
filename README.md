@@ -35,11 +35,11 @@ Each project includes:
 
 | Day | Project Title |
 |-----|----------------|
-| 1   | [Linear Regression (from scratch + sklearn)](./Day01_Linear_Regression) |
-| 2   | [Advanced EDA & Feature Engineering](./Day02_Advanced_EDA) |
-| 3   | [Titanic Survival Prediction (Logistic Regression)](./Day03_Titanic_Logistic) |
-| 4   | [KNN Classifier (Iris dataset)](./Day04_KNN_Iris) |
-| 5   | [Decision Tree Classifier](./Day05_Decision_Tree) |
+| 1   | [Linear Regression (from scratch + sklearn)]([./Day01_Linear_Regression](https://github.com/Shadabur-Rahaman/30-days-ml-projects/tree/main/Day1_Linear_Regression)) |
+| 2   | [Advanced EDA & Feature Engineering]([./Day02_Advanced_EDA](https://github.com/Shadabur-Rahaman/30-days-ml-projects/tree/main/Day2_Advanced_EDA_Feature_Engineering)) |
+| 3   | [Titanic Survival Prediction (Logistic Regression)]([./Day03_Titanic_Logistic](https://github.com/Shadabur-Rahaman/30-days-ml-projects/tree/main/Day3_Titanic_Logistic_Regression_Cleaned.ipynb)) |
+| 4   | [KNN Classifier (Iris dataset)]([./Day04_KNN_Iris](https://github.com/Shadabur-Rahaman/30-days-ml-projects/tree/main/Day4_KNN_Iris_Classifier_Cleaned)) |
+| 5   | [Decision Tree Classifier]([./Day05_Decision_Tree](https://github.com/Shadabur-Rahaman/30-days-ml-projects/tree/main/Day5_DecisionTree_Iris_Classifier_Cleaned)) |
 | 6   | [Random Forest Classifier](./Day06_Random_Forest) |
 | 7   | [Hyperparameter Tuning (GridSearchCV)](./Day07_Hyperparameter_Tuning) |
 | 8   | [Naive Bayes for Text Classification](./Day08_Naive_Bayes) |
