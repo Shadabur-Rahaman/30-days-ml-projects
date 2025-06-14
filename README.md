@@ -36,7 +36,7 @@ Each project includes:
 | Day | Project Title |
 |-----|----------------|
 | 1   | [Linear Regression (from scratch + sklearn)](./Day1_Linear_Regression) |
-| 2   | [Advanced EDA & Feature Engineering]([./Day2_Advanced_EDA]) |
+| 2   | [Advanced EDA & Feature Engineering]([./Day2_Advanced_EDA_Feature_Engineering]) |
 | 3   | [Titanic Survival Prediction (Logistic Regression)]([./Day3_Titanic_Logistic]) |
 | 4   | [KNN Classifier (Iris dataset)]([./Day4_KNN_Iris]) |
 | 5   | [Decision Tree Classifier]([./Day5_Decision_Tree]) |
