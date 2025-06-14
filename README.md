@@ -35,7 +35,7 @@ Each project includes:
 
 | Day | Project Title |
 |-----|----------------|
-| 1   | [Linear Regression (from scratch + sklearn)]([./Day01_Linear_Regression](https://github.com/Shadabur-Rahaman/30-days-ml-projects/tree/main/Day1_Linear_Regression)) |
+| 1   | [Linear Regression (from scratch + sklearn)]([./Day01_Linear_Regression]) |
 | 2   | [Advanced EDA & Feature Engineering]([./Day02_Advanced_EDA](https://github.com/Shadabur-Rahaman/30-days-ml-projects/tree/main/Day2_Advanced_EDA_Feature_Engineering)) |
 | 3   | [Titanic Survival Prediction (Logistic Regression)]([./Day03_Titanic_Logistic](https://github.com/Shadabur-Rahaman/30-days-ml-projects/tree/main/Day3_Titanic_Logistic_Regression_Cleaned.ipynb)) |
 | 4   | [KNN Classifier (Iris dataset)]([./Day04_KNN_Iris](https://github.com/Shadabur-Rahaman/30-days-ml-projects/tree/main/Day4_KNN_Iris_Classifier_Cleaned)) |
