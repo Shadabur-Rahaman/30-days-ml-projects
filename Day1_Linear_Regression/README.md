@@ -27,15 +27,10 @@ This is the first project in my #30DaysMLProjects journey to build practical and
    cd linear-regression-ridge
 Install required packages:
 
-bash
-Copy
-Edit
 pip install numpy matplotlib
 Run the script:
 
-bash
-Copy
-Edit
+
 python linear_regression_ridge.py
 Check the terminal for learned parameters and view the generated plots.
 
@@ -49,9 +44,7 @@ Practice optimization using gradient descent
 Visualize model fit and training loss convergence
 
 File Structure
-bash
-Copy
-Edit
+
 linear-regression-ridge/
 │
 
